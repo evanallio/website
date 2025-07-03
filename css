@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: sans-serif;
+  background: #fff;
+  color: #000;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-top: 0;
+  font-size: 1rem;
+}
